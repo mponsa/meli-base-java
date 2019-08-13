@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ar.com.mercadolibre.tragamonedas.TragamonedasTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-08-13T12:23:31" hostname="AR0FVFYM1CJHV2J" time="0.001">
+  <properties/>
+  <testcase name="debeActivarseElTragamonedas" classname="ar.com.mercadolibre.tragamonedas.TragamonedasTest" time="0.001"/>
+  <testcase name="debeCrearTragamonedasConTambores" classname="ar.com.mercadolibre.tragamonedas.TragamonedasTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
