@@ -1,6 +1,6 @@
 language: java
-jdk: oraclejdk12
+jdk: oraclejdk12.0.1
 
 install: true
 script:
-  - ./gradlew build --scan -s
+  - ./gradlew build
