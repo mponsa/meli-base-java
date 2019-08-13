@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ar.com.mercadolibre.envios.PaquetesTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-08-13T12:23:31" hostname="AR0FVFYM1CJHV2J" time="0.001">
+<testsuite name="ar.com.mercadolibre.envios.PaquetesTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-08-13T14:24:32" hostname="AR0FVFYM1CJHV2J" time="0.002">
   <properties/>
-  <testcase name="deberiaDevolverElPeso" classname="ar.com.mercadolibre.envios.PaquetesTest" time="0.0"/>
+  <testcase name="deberiaDevolverElPeso" classname="ar.com.mercadolibre.envios.PaquetesTest" time="0.001"/>
   <testcase name="noDeberiaCrearPaqueteConPesoMenorCero" classname="ar.com.mercadolibre.envios.PaquetesTest" time="0.0"/>
   <testcase name="debeCrearPaqueteConPeso" classname="ar.com.mercadolibre.envios.PaquetesTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>

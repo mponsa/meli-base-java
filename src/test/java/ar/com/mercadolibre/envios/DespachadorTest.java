@@ -9,7 +9,7 @@ import org.mockito.runners.MockitoJUnitRunner;
 import java.util.ArrayList;
 import java.util.List;
 
-
+import static org.mockito.Mockito.*;
 
 
 @RunWith(MockitoJUnitRunner.class)

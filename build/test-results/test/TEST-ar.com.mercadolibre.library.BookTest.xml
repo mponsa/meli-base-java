@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ar.com.mercadolibre.library.BookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-13T12:23:31" hostname="AR0FVFYM1CJHV2J" time="0.001">
+<testsuite name="ar.com.mercadolibre.library.BookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-13T14:24:32" hostname="AR0FVFYM1CJHV2J" time="0.001">
   <properties/>
   <testcase name="shouldCreateStudyBook" classname="ar.com.mercadolibre.library.BookTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
