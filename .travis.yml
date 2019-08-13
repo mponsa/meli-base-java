@@ -1,0 +1,9 @@
+language: java
+jdk: oraclejdk12
+
+install: true
+script: ./mvnw clean install
+
+script:
+  - ./mvnw clean install
+  - bash <(curl -s https://codecov.io/bash)
